@@ -1,1 +1,1 @@
-# Sales-Data-Analysis
+This project demonstrates an end-to-end data analysis pipeline using Python Pandas, including data ingestion, preprocessing, and exploratory data analysis (EDA). It covers DataFrame operations such as filtering, grouping, aggregation, and statistical summarization. The workflow emphasizes data cleaning, transformation, and insight extraction from structured datasets, with optional visualization for trend analysis.
